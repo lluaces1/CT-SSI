@@ -1,0 +1,20 @@
+name: "my-website"
+navbar:
+  title: "Cognitive therapy skills"
+  left:
+    - text: "Situation"
+      href: situation.html
+    - text: "Mood"
+      href: mood.html
+    - text: "Automatic thoughts"
+      href: thoughts.html
+    - text: "Evidence for"
+      href: evidencefor.html
+    - text: "Evidence against"
+      href: evidenceagainst.html
+    - text: "What changed?"
+      href: outcomes.html
+output:
+  html_document:
+    theme: cosmo
+output_dir: "."
