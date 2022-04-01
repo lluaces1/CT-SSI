@@ -1,5 +1,12 @@
 ---
-title: "My Website"
+title: "**Thought challenging**"
 ---
     
-Hello, Website! Welcome to the world.
+Hi! I am a professor of psychology and I am learning how to make websites. This website is a practice attempt at making a website to explain "thought challenging" to people. 
+
+"Thought challenging" is a skill to help improve your mood. It is a part of "cognitive-behavioral therapy (CBT)." You don't need to know all those words in CBT (but learn more here)! The basic idea is to help change your mood by changing how you think.
+
+
+<center>
+![The cognitive-behavioral therapy (CBT) loop explains how the things you think, the things you feel, and your behavior interact](pictures/CBT.jpg){width=500px length=500px}
+</center>

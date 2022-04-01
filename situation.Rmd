@@ -1,4 +1,18 @@
 ---
-title: "situation"
+title: "**What happened?**"
 output: html_document
 ---
+<br>
+When our mood changes, there is usually a **situation** that set off, provoked, or triggered the change in our mood.
+
+A lot of times, the thing that happened was *external* to you. For example, somebody said something to or you saw something happen. 
+
+Sometimes, the thing that happened was *internal* to you. For example, you may have a **thought** that may be getting you down, making you anxious, angry, or stressed. Another *internal* thing that can lead to changes in mood are sensations in your body. For example, I once noticed that my heart was beating very fast and started getting anxious because I thought that something was seriously wrong with my body. 
+
+To identify the situation that contributed to your changed mood, it is helpful to ask yourself questions like"
+
+- **Who** were you with?
+- **What** were you doing?
+- **When** was it?
+- **Where** were you?
+- **How** was your body feeling?

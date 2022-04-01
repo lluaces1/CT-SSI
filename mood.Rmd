@@ -1,0 +1,29 @@
+---
+title: "How did it make you feel"
+output: html_document
+---
+
+# What are the emotions
+
+According to some scientists, emotions can be grouped roughly in 6 categories. They are:
+
+- sadness
+- fear
+- anger
+- disgust
+- surprise
+- joy
+
+You may recognize these from the movie Inside Out. The reason for that is that Pixar consulted with emotion researchers to base the movie on science. (Surprise isn't included because there were already too many characters. You can read about the science behind Inside Out and why surprise was removed here)
+
+![](pictures/emotions.jpg)
+
+# My emotional life is more complex than 6 emotions
+
+You may be thinking that 6 emotions alone cannot describe how complicated feelings can be. This is true! The way I would explain this is by remembering that the emotions vary in how intense they are. For example, you can think of irritability as anger that is not very intense.
+
+don't happen one at a time. You can find combinations of them. For example, when we remember someone who we loved who passed away we may feel melancholic
+
+For example, this Vox article drew the possible emotional combination
+
+![](pictures/emotion complex.png)
