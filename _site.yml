@@ -4,6 +4,8 @@ navbar:
   left:
     - text: "Situation"
       href: situation.html
+    - text: "Mood"
+      href: mood.html
 output:
   html_document:
     theme: cosmo
