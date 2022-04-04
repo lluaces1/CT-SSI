@@ -4,7 +4,7 @@ navbar:
   left:
     - text: "Situation"
       href: situation.html
-    - text: "Mood"
+    - text: "Feeling"
       href: mood.html
 output:
   html_document:
