@@ -1,34 +1,115 @@
 ---
-title: "**How did it make you *feel* **"
+title: "    "
 output: html_document
 ---
-<br>
-According to scientists, feelings or emotions can be grouped roughly in 6 categories. They are:
+<h2 style="color:#990000">**How did it make you *feel*?**</h2>
 
-- sadness
-- fear
-- anger
-- disgust
-- surprise
-- joy
+Feelings, sometimes called "emotions," can be grouped into 6 categories. They are:
 
-If you have young children or are a fan of Disney movies you may know these from the movie Inside Out. The reason for that is that Pixar consulted with emotion researchers to base the movie on science. (The feeling "surprise" isn't included because there were already too many characters in the movie. You can read about the science behind Inside Out and why surprise was removed here)
+- <span style="color: blue;">**sadness**</span> 
+- <span style="color: purple;">**fear**</span>  
+- <span style="color: red;">**anger**</span>  
+- <span style="color: green;">**disgust**</span>  
+- <span style="color: brown;">**surprise**</span>  
+- <span style="color: orange;">**joy**</span>  
+
+If you have young children or are a fan of Disney movies you may know these from the movie Inside Out. The reason for that is that Pixar consulted with feeling researchers to base the movie on science. (The feeling "surprise" isn't included because there were already too many characters in the movie. You can read about the science behind Inside Out and why surprise was removed here)
 
 ![](pictures/emotions.jpg)
 
-<h2 style="color:#990000">**My emotional life is more complex than 6 emotions**</h2>
+<h2 style="color:#990000">**My feelingal life is more complex than 6 feelings**</h2>
 
-You may be thinking that 6 emotions alone cannot describe how complicated feelings can be. If you are, please keep reading because you are right. It's way more complicated than saying there are six feelings. Feelings vary in how *intense* they are. For example, you can think of *irritability* as *anger* that is not very intense and you can think of *hatred* or *rage* as *anger* that is more intense. 
+You may be thinking that 6 feelings alone cannot describe how complicated feelings can be. If you are, please keep reading because you are right! It's way more complicated than saying there are six feelings. Feelings vary in how *intense* they are. For example, you can think of *irritability* as *anger* that is not very intense and you can think of *hatred* or *rage* as *anger* that is more intense. 
 
 You can also feel combinations of them. For example, some people who remember loved ones who have died feel a mix of sadness and joy that is sometimes called "melancholia." Some people who are afraid (*fear*) of animals like snakes or spiders feel *disgust* at the same time as fear. 
-For example, this Vox article drew the possible emotional combinations. 
+For example, this Vox article drew the possible feelingal combinations. 
 
 ![](pictures/emotion complex.png){width=350px length=350px}
 
-If you add "surprise" to the mix and consider that emotions vary in how strong they are, that paints a much more complicated picture than just saying "there are 6 emotions." 
+If you add "surprise" to the mix and consider that feelings vary in how strong they are, that paints a much more complicated picture than just saying "there are 6 feelings." 
 
 <h2 style="color:#990000">**Why does this matter**</h2>
 
 One of the reasons it is important to know what you are feeling is because *saying* what you are feeling can actually make you feel better. This is called [affect labeling](https://journals.sagepub.com/doi/pdf/10.1177/1754073917742706) which is not a term you need to know. (It is really just a fancy way of saying that someone said how they were feeling.) So, saying "I am anxious" can make that anxiety a little bit lower than if you were feeling anxious but did not say it. This has been now found in multiple studies, including an [analysis of 386 studies](https://academic.oup.com/scan/article/12/2/169/2544460) where scientists found that using words to describe feelings was associated with specific brain activity. 
 
-Now, we are *not* saying that putting words to your emotions will make negative feelings go away. It will only help reduce how strong the feelings are, and only on average (so sometimes it may work sometimes it may not. The real reason we think it is important to put emotions into words is because different emotions are associated to different thoughts. In the next section, you will learn how to use your feelings to help change what you are thinking about.
+Now, we are *not* saying that putting words to your feelings will make negative feelings go away. It will only help reduce how strong the feelings are, and only on average (so sometimes it may work sometimes it may not. The real reason we think it is important to put feelings into words is because different feelings are associated to different thoughts. In the next section, you will learn how to use your feelings to help change what you are thinking about.
+
+In the meantime, before challenging your thoughts to help change your feelings, rate which feelings you are feeling and how intense they are. One easy way to do this is to rate your feelings on a 0-100 scale with 0 representing "not feeling at all," 100 meaning "the most intense I have ever felt this feeling, and a 50 being somewhere in between:
+
+- <span style="color: blue;">**sadness**</span> 0-100
+- <span style="color: purple;">**fear**</span>  0-100
+- <span style="color: red;">**anger**</span>    0-100 
+- <span style="color: green;">**disgust**</span> 0-100  
+- <span style="color: brown;">**surprise**</span> 0-100  
+- <span style="color: orange;">**joy**</span> 0-100
+
+Note that most people do not struggle with feeling too much joy or surprise in their lives. We will keep including joy and surprise in the information we give you but most of what we are trying to help you with are feelings of sadness, fear, anger, and disgust, which usually feel bad to people.
+
+<h2 style="color:#990000"> **This is too complicated for me**</h2>
+
+If you think that trying to keep track of 6 feelings is too hard, you don't need to start by identifying your specific feelings. An easy way to think about feelings is by thinking about whether you feel good vs. bad. Joy tends to feel good, while sadness, fear, anger, and disgust tend to feel bad. Most people want help when they are feeling bad so you could just say the feeling you are dealing with is feeling "upset" or just "bad." You probably want to skip to the next section on "thoughts," if you don't want to learn more about the 6 different feelings. 
+
+<h2 style="color:#990000">**Why do we have feelings?**</h2>
+
+One idea as to why we have feelings is that they protect us. Fear is probably the feeling that is easiest to understand as helping us. If we did not feel fear, we may do things that are dangerous to us like not looking both ways when we cross the street (or worse!). In the wild, animals that are more "anxious" in how easily started they are, tend to survive longer. Similarly, people who tend to be more anxious than others take fewer risks. 
+
+Feelings like fear can become a problem when they are too *intense*, when we have been feeling them for *too long*, or when they make us do things that are not good for us.
+
+<h2 style="color:#990000">**Help! I don't know what feeling I am feeling**</h2> 
+
+Sometimes it can be difficult to know what you are feeling. One way to help know what you are feeling could be to focus on what was happening around you. 
+
+##### **Look up these feelings that sometimes go with specific situations** {.tabset .tabset-pills}
+
+###### fear
+Fear likely evolved to protect us from danger. Because of this, fear often comes when we are in danger or when we think there is danger (whether we are right or not). Fear usually happens in:
+
+- a situation where you could be hurt physically
+- new situations or situations you don't know very well
+- a situation where you could be hurt "socially."
+- situations where you are or feel out of control or very uncertain, like you don't know what could happen
+
+Specific situations that tend to trigger fear include being alone, being in the dark, or being in a place or situation that reminds you of something bad that happened to you.
+
+###### sadness
+It turns out, many things can make us sad! Usually sadness comes after things that are negative or thinking about things that are negative. This includes:
+
+- Things turning out badly or worse than you expected. 
+- Not getting what you want and believe you need in life. 
+- Losing someone you love, for example, because they died, they ended their relationship with you, or they are far from you. 
+- Being rejected, excluded, disapproved of, disliked, or not being valued. - Discovering that you are powerless or helpless. 
+- Reading about other people's problems or troubles in the world.
+
+###### anger
+Many different types of situations can trigger anger, including:
+
+- Losing power, status, or respect
+- Not having things turn out the way you expected.
+- Experiencing physical or feelingal pain.
+- Being stopped, delayed, or interrupted from doing something you want
+- Not getting something you want (which another person has).
+
+Like the other feelings, anger can also happen based on what you think. So, it can happen if you *think* you will lose power, status, or respect, etc. 
+
+###### disgust
+Disgust evolved to protect us from things that can make us sick like food that is rotten or "bad," animals that could be poisonous to us, or things we are not supposed to eat like vomit or feces. So, we often experience disgust after we see (or imagine) something could make us sick. 
+
+Because our brain are not perfect, we often feel disgusted by things that are not actually harmful. For example, some spiders and snakes are venomous but **most are not.** But a lot of people find spiders and snakes disgusting, which makes sense because feelings are supposed to keep us safe.
+
+Some people say they feel disgusted by specific things that are *immoral* or *bad*. 
+
+###### surprise  
+Surprise is pretty easy! We tend to feel surprised after something happens that we were not expecting. For example, if you won the lottery, you would be very surprised because it's something that does not happen to a lot of people. 
+
+###### joy
+Joy tends to be the product of something good happening or us thinking that something is good (whether it is or not). This includes:
+
+- Being good at somethign
+- Getting what you want
+- Getting love, affection, or respect
+- Getting something you have worked hard for or worried about
+- Things turning out better than you thought they would
+- Doing things that create or bring to mind pleasurable sensations
+- Being with people who love, like, or accept you
+
+

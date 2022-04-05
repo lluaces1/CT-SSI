@@ -6,6 +6,8 @@ navbar:
       href: situation.html
     - text: "Feeling"
       href: mood.html
+    - text: "Thoughts"
+      href: thoughts.html
 output:
   html_document:
     theme: cosmo

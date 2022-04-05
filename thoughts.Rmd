@@ -1,0 +1,43 @@
+---
+title: " "
+output: html_document
+---
+
+<h1 style="color:#990000">**Automatic thoughts**</h1>
+
+In the first page, we said that your thoughts affect your feelings. Here, we explain that in more detail.
+
+
+####  Specific thoughts that often go with specific emotions {.tabset .tabset-pills}
+
+##### **Sadness**  
+As we said before, sadness often follows from *negative* things.
+
+- Thinking what you do won't make a difference 
+- Thinking you matter less than other people or are "bad"
+- Thinking you do not have any power or that the things you do won't make a difference in your life
+- Thinking, whether you are right or not, that you lost something or someone forever
+- Thinking things are not going to get better
+
+##### **Fear**
+As we said before, fear often comes when you think there is *danger.* Sometimes this means thinking you or your loved ones could be *hurt,* could be  *harmed,* or could become sick, or even die. But fear happens with other kinds of hurt, for example thinking someone will reject, criticize, or dislike you. Fear can also come from thinking that you are going to fail at something, or that you  might lose someone or something you want. 
+
+As humans, we like to be in control and also like things being certain or known to us. So, thinking you are out of control, helpless, or that something is uncertain will also evoke fear.
+
+##### **Anger**
+Thoughts that fuel anger:
+
+- Expecting pain ("I bet this will hurt")
+- Judging that a situation is wrong or unfair ("it's just not fair")
+- Believing that things should be different
+- Rigidly thinking "I'm right"
+- Thinking a lot about things that made you angry in the past
+
+##### **Disgust**  
+Disgust can happen very automatically, leading some people to think that feeling disgusted makes you have feelings of disgust, and not the other way around. If you have made it this far, it's more likely you are struggling with fear/anxiety, sadness, and anger than disgust, so it doesn't really matter but there are thoughts that can fuel disgust. For example, people who are disgusted by spiders and lizards often think "I cannot tolerate how it would feel to touch a spider." They also tend to have wrong ideas about the things they find especially disgusting.
+
+##### **Surprise**  
+As before, surprise is simple! Usually the thought is "this [thing] was not supposed to happen." When the "thing" you are surprised about is something good, you tend to feel surprise and joy. When the "thing" that surprised you is ambiguous, seems bad, or is bad, you may feel anger or fear along with the surprise.
+
+##### **Joy**
+
