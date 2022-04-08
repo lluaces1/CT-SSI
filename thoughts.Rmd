@@ -5,7 +5,9 @@ output: html_document
 
 <h1 style="color:#990000">**Automatic thoughts**</h1>
 
-In the first page, we said that your thoughts affect your feelings. Here, we explain that in more detail.
+In the first page, we said that your thoughts affect your feelings. Here, we explain that in more detail. The basic idea is that your thoughts and your feelings often go together. People in the same situation that have different thoughts about the situation will feel differently. Psychologist Christine Pedesky gives this example in her book:
+
+Most people would think of being fired from their job as a reason to feel upset. But, one person who is fired from their job may think: "I am a failure" and feel very sad. Someone else may think, “They have no right to fire me; this is so unfair” and feel angry. Another person may think “it sucks that they fired me but now is my chance to try out a new job” and feel a mix of fear and joy. 
 
 
 ####  Specific thoughts that often go with specific emotions {.tabset .tabset-pills}
